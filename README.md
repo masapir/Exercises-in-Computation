@@ -6,9 +6,6 @@ This is a draft collection of home school discussion and study notes on computat
 
 In addition to thinking about computation, Julia, and programming, we are interested in exploring the use of computation to gain further insight into math and physics concepts.
 
-To begin our study we will follow discussions in Abelson & Sussman's Structure and Interpretation of Computer Programs while learning the Julia language.
-
-
 ## Julia Set Up
 
 We work with Julia directly in IJulia notebooks.
