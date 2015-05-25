@@ -1,6 +1,6 @@
 # Exercises-in-Computation
 
-Home School Discussion and Study Notes
+Home school discussion and study notes
 
 This is a draft collection of discussion and study notes on computation. 
 
@@ -13,11 +13,11 @@ To begin our study we will follow discussions in Abelson & Sussman's Structure a
 
 ## Julia Set Up
 
-We will work with Julia directly in IJulia notebooks.
+We work with Julia directly in IJulia notebooks.
 
 ### Installation
 
-We followed the instructions at https://github.com/stevengj/julia-mit (last checked 17 May 2015).
+Instructions at https://github.com/stevengj/julia-mit (last checked 17 May 2015).
 
 	* Install IPython via Anaconda package
 	* Download Julia from julialang.org/downloads
@@ -30,12 +30,12 @@ We followed the instructions at https://github.com/stevengj/julia-mit (last chec
 	* Command line: move to the directory where you want to create your Julia files
 	* Command line: execute ipython notebook --profile julia
 
-### Keeping Julia current:
+### Keeping Julia Current
 
 	* In Julia (or IJulia): julia> Pkg.update() 
 
 ### References
 
-The first part of our study is based on the ideas and problems discussed in Abelson & Sussman, Structure & Intepretation of Computer Programs (2d ed.) (SICP). Our notes, however, are adapted into the Julia programming language rather than Scheme. Exercise and page numbers refer to SICP. 
+The first part of our study is based on the ideas and problems discussed in Abelson & Sussman, *Structure & Intepretation of Computer Programs* (2d ed.) (SICP). Our notes, however, are adapted into the Julia programming language rather than Scheme. Exercise and page numbers refer to SICP. 
 
 
