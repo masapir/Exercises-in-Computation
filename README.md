@@ -1,8 +1,6 @@
 # Exercises-in-Computation
 
-Home school discussion and study notes
-
-This is a draft collection of discussion and study notes on computation. 
+This is a draft collection of home school discussion and study notes on computation. 
 
 ## Our Study Theme
 
