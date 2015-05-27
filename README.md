@@ -31,6 +31,8 @@ Instructions at https://github.com/stevengj/julia-mit (last checked 17 May 2015)
 
 ### References
 
-The first part of our study references concepts and exercises discussed in Abelson & Sussman, *Structure & Intepretation of Computer Programs* (2d ed.) (SICP). Our notes, however, are adapted into the Julia programming language rather than Scheme.
+The first part of our study references concepts and exercises discussed in Abelson & Sussman, *Structure & Intepretation of Computer Programs* (2d ed.) (SICP). 
+
+Our notes are adapted into the Julia programming language rather than Scheme. http://http://julia.readthedocs.org/en/latest/
 
 
